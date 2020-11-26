@@ -1,0 +1,23 @@
+{
+  "name": "tt",
+  "version": "1.0.0",
+  "description": "翻译",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tzlhz1/T_T.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tzlhz1/T_T/issues"
+  },
+  "homepage": "https://github.com/tzlhz1/T_T#readme",
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
